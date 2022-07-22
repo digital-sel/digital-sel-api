@@ -63,6 +63,8 @@ GEM
     bcrypt (3.1.16-java)
     bootsnap (1.5.1)
       msgpack (~> 1.0)
+    bootsnap (1.5.1-java)
+      msgpack (~> 1.0)
     builder (3.2.4)
     bundle-audit (0.1.0)
       bundler-audit
@@ -342,7 +344,7 @@ GEM
     thread_safe (0.3.6-java)
     tins (1.26.0)
       sync
-    tzinfo (1.2.8)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2020.4)
       tzinfo (>= 1.0.0)
